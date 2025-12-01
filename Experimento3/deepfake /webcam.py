@@ -516,4 +516,5 @@ def menu_principal():
             print("\nOpcao invalida!".center(80))
 
 if __name__ == "__main__":
+
     menu_principal()
